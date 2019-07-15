@@ -1,0 +1,8 @@
+users(id, name, age, wallet)
+
+transactions(id,from wallet, to wallet, summuah)
+
+wallets(number, currency 3, user)
+
+exchangeRate(currency, course)
+
